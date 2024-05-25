@@ -1,0 +1,229 @@
+{
+  "bboxes_relation_json": [
+    {
+      "type": "relation",
+      "to_id": "fa51fe8e",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "1874cc9b",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "75f4b8a4",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "fa51fe8e",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "d2e2a93a",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "75f4b8a4",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "989eb45c",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "d2e2a93a",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "67568ce6",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "989eb45c",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "8a285373",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "67568ce6",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "53ac5ec4",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "8a285373",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "e2da90d1",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "53ac5ec4",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "c682df4b",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "e2da90d1",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "f500d47c",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "c682df4b",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "9d47fa71",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "f500d47c",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "73f83738",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "9d47fa71",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "3f068d2b",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "73f83738",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "5afc37c1",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "3f068d2b",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "f5aaed37",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "5afc37c1",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "3f57d975",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "f5aaed37",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "59e05d86",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "3f57d975",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "679a136c",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "59e05d86",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "0fc40fa2",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "679a136c",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "04e3acab",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "0fc40fa2",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "edd1bcdb",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "04e3acab",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "7c16cd95",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "edd1bcdb",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "570236bc",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "7c16cd95",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "6f30db4c",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "570236bc",
+      "direction": "right"
+    },
+    {
+      "type": "relation",
+      "to_id": "4c6d182e",
+      "labels": [
+        "continues-to"
+      ],
+      "from_id": "6f30db4c",
+      "direction": "right"
+    }
+  ]
+}
